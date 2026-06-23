@@ -1,0 +1,122 @@
+body{
+    background-image: url(bg5.jpg);
+    color: white;
+}
+
+h1{
+   
+   text-align: left;
+}
+
+h2{
+
+   text-align: left;
+   font-size: large;
+}
+p{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+    padding-right: 50px;
+    padding-top: 20px;
+    
+}
+button{
+    font-size: large;
+    border: none;
+    background-color: black;
+    cursor: pointer;
+    color: white;
+}
+a{
+   font-size: 20px;
+    border: none;
+    background-color: black;
+    cursor: pointer;
+    color: white; 
+    text-decoration: none;
+    text-align: center;
+    padding-right: 50px;
+    padding-top: 20px;
+
+}
+.intro{
+    padding-left: 50px;
+   
+   padding-right: 60px;
+   
+   
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.abt{
+
+  text-align: center;
+    max-width: 1100px;
+    
+   margin: auto;
+    margin-top: 120px;
+     
+}
+
+
+img{
+    width: 25px;
+    height: 25px;
+}
+button{
+    margin-right: 16px;
+}
+
+
+.abt p {
+    font-size: 18px;
+}
+
+.boxes{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+
+   
+}
+.box{
+    height: 150px;
+    width: 300px;
+    border: 2px solid white;
+   background-color: black;
+   border-radius: 5px;
+   text-align: center;
+
+}
+h3{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.box img{
+    width: 40px;
+    height: 40px;
+    padding-right: 20px;
+}
+.box h3{
+    padding-top: 20px;
+}
+
+h5{
+    font-size: 15px;
+    font-weight: bold;
+}
+.pro img {
+    height: 150px;
+    width: 300px;
+}
+.proboxes{
+    margin-top: 200px;
+}
